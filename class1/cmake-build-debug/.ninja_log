@@ -1,0 +1,13 @@
+# ninja log v5
+0	712	1715609154721341979	CMakeFiles/smart_ptr_closure.dir/smart_ptr_closure.cpp.o	7a52ffd1dd86120f
+925	1071	1715606042898734913	thread_basic	938f241bde822867
+712	830	1715609154841339795	smart_ptr_closure	99f011221b08b8ee
+0	27	1715609277839671420	build.ninja	2f68295883b0a5c6
+0	925	1715606042754514530	CMakeFiles/thread_basic.dir/thread_basic.cpp.o	b304c10f547c4efa
+0	18	1715344984932322687	CMakeFiles/thread1.dir/thread_basic.cpp.o	a25cd22fa2b051c8
+1	738	1715609280723644833	CMakeFiles/smart_ptr_closure.dir/smart_ptr_closure.cpp.o	451b4f1dc64fac09
+738	849	1715609280835643810	smart_ptr_closure	c5ccae6a5a6e3bce
+0	712	1715609331003263411	CMakeFiles/smart_ptr_closure.dir/smart_ptr_closure.cpp.o	451b4f1dc64fac09
+713	840	1715609331131262635	smart_ptr_closure	c5ccae6a5a6e3bce
+1	771	1715609356251127581	CMakeFiles/smart_ptr_closure.dir/smart_ptr_closure.cpp.o	451b4f1dc64fac09
+772	866	1715609356343127152	smart_ptr_closure	c5ccae6a5a6e3bce

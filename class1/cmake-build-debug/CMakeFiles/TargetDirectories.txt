@@ -1,0 +1,4 @@
+/home/ubuntu64/cppthread/class1/cmake-build-debug/CMakeFiles/thread_basic.dir
+/home/ubuntu64/cppthread/class1/cmake-build-debug/CMakeFiles/smart_ptr_closure.dir
+/home/ubuntu64/cppthread/class1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu64/cppthread/class1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
