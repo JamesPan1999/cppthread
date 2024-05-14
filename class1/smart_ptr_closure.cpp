@@ -35,11 +35,11 @@ void oops() {
 void oops2() {
     int some_local_state = 0;
     auto myfunc = std::make_shared<Func>(some_local_state); // 使用std::make_shared更安全
-    std::function<void()> function = std::bind(&Func::operator(), myfunc, std::placeholders::_1); // 正确绑定成员函数
+//    std::function<void()> function = std::bind(&Func::operator(), myfunc, std::placeholders::_1); // 正确绑定成员函数
 //    std::thread functhread(myfunc);  //报错
-    std::thread functhread(function);  // 由于智能指针本身不是可执行对象，所以必须在外面包一层函数指针
+//    std::thread functhread(function);  // 由于智能指针本身不是可执行对象，所以必须在外面包一层函数指针
 
-    functhread.detach();
+//    functhread.detach();
 }   // myfunc被析构  但其所指向的内存并没有
 
 // detach 注意事项
